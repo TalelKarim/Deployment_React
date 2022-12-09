@@ -1,0 +1,43 @@
+.MainInstructor {
+  width: 100%;
+  height: 100vh;
+  padding-left: 250px;
+}
+
+.metricsInstructor {
+  height: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 100px 139px;
+  margin-top: -25px;
+}
+
+.metricsInstructor h6 {
+  color: #96979c;
+}
+
+.icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dashboardicon {
+  color: #0d6efd;
+  font-size: 1.8em;
+  margin-top: -8px;
+}
+
+.titleDashboard {
+  margin-top: 50px;
+  padding-left: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.dashicon {
+  font-size: 2em;
+  margin-top: -5px;
+  margin-right: 13px;
+}
